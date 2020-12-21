@@ -1,0 +1,48 @@
+div {
+    float: left;
+    width: 15%;
+    margin-left: 40px;
+    border: 3px solid blue;
+    box-shadow: 10px 10px 10px floralwhite;
+    border-radius: 20px;
+
+   
+   }
+   body{
+       background-color:antiquewhite;
+       margin-left: 50px;
+   }
+   img{
+       border-radius: 20px;
+       height: 300px;
+       width: 180px;
+       box-sh
+       
+   }
+   h1{
+       text-align: center;
+       text-shadow: 2px 2px 8px red;
+   }
+   h2 {
+       margin-left: 25px;
+   }
+   h3{
+       margin-left: 25px;
+   }
+  
+   
+   button{
+   
+      background-color: black;
+     border: none;
+    color: white;
+    padding: 13px;
+    text-align: center;
+      text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+      cursor: pointer;
+      margin-left: 25px;
+}
+   
+   
